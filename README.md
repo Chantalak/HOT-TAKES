@@ -15,8 +15,6 @@ La marque de condiments à base de piment Piiquante souhaite développer une app
 - Express js
 - MongoDB
 
-### Général
-
 ## frontend
 ### Installation 
 
@@ -35,7 +33,7 @@ Une fois que tout est installé lancer la commande `npm start`.
 
 Si vous avez une erreur aller sur votre navigateur et naviguez sur http://localhost:8080.
 
-Pour tout arrêter dans le terminal taper `Ctrl+C` ceci arrêterz le serveur local.
+Pour tout arrêter dans le terminal taper `Ctrl+C` ceci arrête le serveur local.
 
 ## backend
 
